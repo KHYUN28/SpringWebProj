@@ -8,11 +8,12 @@
 </head>
 <body>
 	<h2>Login Page</h2>
-    <form action="/SpringWebProj/static/index.html" method="post">
-        <label for="username">UserName :</label>
+	<%--<form action="/SpringWebProj/static/index.html" method="post">--%>
+    <form action="/SpringWebProj/welcome.jsp" method="post">
+        <label for="username">username :</label>
         <input type="text" id="username" name="username" required><br>
 
-        <label for="password">PassWord :</label>
+        <label for="password">password :</label>
         <input type="password" id="password" name="password" required><br>
 
         <input type="submit" value="Login">

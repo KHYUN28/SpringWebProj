@@ -33,7 +33,6 @@ public class HelloController {
 
 }
 
-
 //public class HelloController implements Controller{
 //	@Autowired HelloSpring helloSpring;
 //

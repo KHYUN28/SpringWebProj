@@ -8,8 +8,11 @@
 </head>
 <body>
 	<h1>Welcome</h1>
-    <p>Hello, ${username} !</p>
-    <p>Hello, <%= request.getParameter("username") %>!</p>
+    <p>Hello, ${username}!</p>
+    <%--<p>Hello, <%= request.getParameter("username") %>!</p>--%>
     <p>Welcome to our website.</p>
+    <a href="/SpringWebProj/index.html">반갑습니다</a>
+    <a href="/SpringWebProj/login.jsp">로그인</a>
+    <a href="/SpringWebProj/static/index.html" >계산기</a>
 </body>
 </html>
