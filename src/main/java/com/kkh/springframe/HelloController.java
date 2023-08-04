@@ -1,4 +1,4 @@
-package com.intheeast.springframe;
+package com.kkh.springframe;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.intheeast.springframe;
+package com.kkh.springframe;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

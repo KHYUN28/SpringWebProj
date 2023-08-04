@@ -1,4 +1,4 @@
-package com.intheeast.springframe;
+package com.kkh.springframe;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;

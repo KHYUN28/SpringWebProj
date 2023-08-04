@@ -1,4 +1,4 @@
-package com.intheeast.springframe.config;
+package com.kkh.springframe.config;
 
 import java.util.List;
 
